@@ -1,11 +1,13 @@
 
 # 🚗 ConsultaCarros 🏍️
 
-**Bem-vindo ao ConsultaCarros!
+Bem-vindo ao ConsultaCarros!
 
 ## ℹ Sobre o ConsultaCarros
 
 O ConsultaCarros é uma aplicação Java criada para descobrir informações detalhadas sobre marcas, modelos e valores de carros, motos e caminhões utilizando a API da FIPE.
+
+![Tela do Projeto](tela-projeto2.png)
 
 ## 🔧 Como Começar
 
