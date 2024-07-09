@@ -1,15 +1,12 @@
 
 # 🚗 ConsultaCarros 🏍️
 
+**Bem-vindo ao ConsultaCarros!
 
-** Bem-vindo ao ConsultaCarros!
-
-==============================================================================
 ## ℹ Sobre o ConsultaCarros
 
 O ConsultaCarros é uma aplicação Java criada para descobrir informações detalhadas sobre marcas, modelos e valores de carros, motos e caminhões utilizando a API da FIPE.
 
-==============================================================================
 ## 🔧 Como Começar
 
 1. **Clone o Repositório:**
@@ -27,7 +24,6 @@ O ConsultaCarros é uma aplicação Java criada para descobrir informações det
    - Execute o método main da classe ConsultaCarrosApplication para iniciar o aplicativo e começar a explorar!
    - mvn spring-boot:run
 
-==============================================================================
 ## 🚀 Funcionalidades
 
 - **Menu Interativo:**
@@ -38,11 +34,8 @@ O ConsultaCarros é uma aplicação Java criada para descobrir informações det
 - **Exibição de Resultados:**
   - Após selecionar um modelo e um ano, os detalhes do veículo são exibidos, incluindo valor, marca, modelo, ano e tipo de combustível.
 
-==============================================================================
 ### 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o ConsultaCarros.
-
-==============================================================================
 
 Desenvolvido com 💖 por [wataredev](https://github.com/wataredev) como parte do desafio **Oracle Next Education**.
